@@ -1,0 +1,6 @@
+1) isEmpty returns true when list is populated
+2) addBack doesn't add the int to the back
+3) removeBack doesn't update size
+4) removeBack doesn't remove from the back
+5) removeFront doesn't update size
+6) removeFront doesn't remove from the front
